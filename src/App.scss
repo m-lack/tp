@@ -1,0 +1,39 @@
+.landing-navbar{
+  display: flex;
+  background-color: #2D3A3A;
+  color: white;
+  padding: 10px;
+}
+.login-page{
+  margin-left: 76pc;
+  margin-top: 10px;
+}
+.navbar-logo{
+  font-family: 'Pacifico', cursive;
+  font-size: 25px;
+}
+
+.landing-section{
+  display: flex;
+}
+.section-text{
+  font-family: 'Anton', sans-serif;
+  font-size: 72px;
+  margin-left: 10pc;
+  margin-top: 10pc;
+}
+.section-img{
+  img{
+    width: 600px;
+    height: 500px;
+    margin-left: 15pc;
+    margin-top: 2pc;
+  }
+}
+
+hr{
+  margin-top: 5pc;
+}
+p{
+  text-align: center;
+}
